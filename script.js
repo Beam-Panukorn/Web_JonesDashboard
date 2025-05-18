@@ -158,7 +158,7 @@ function updateAlert(zone) {
     });
     alertContent.innerHTML = alertMsg || "<p>⚠️ No Alert.</p>";
   } else {
-    alertContent.innerHTML = "<p>⚠️ Alert: Phrae Low abundance is concerning.</p>";
+    alertContent.innerHTML = "<p>⚠️ Alert: Phrae Low abundance is concerning.(D)🌲</p>";
   }
 }
 
